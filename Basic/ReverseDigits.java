@@ -15,6 +15,6 @@ public class ReverseDigits {
             sum = sum * 10 + n;
             m = m / 10;
         }
-        System.out.println("Reverse of a Number is "+sum);
+        System.out.println("Reverse of a Number : "+sum);
     }
 }
